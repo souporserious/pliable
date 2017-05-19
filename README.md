@@ -52,7 +52,7 @@ const TableComponent = () => (
 
 ## `Table` component
 
-This is the only exported component. It includes `Head`, `Header`, `Body`, `Row`, and `Data` as components attached to the itself. All default styles use flexbox, it gives you the bare minimum to start styling your tables in React. A [resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill) is used to keep the `Header` and `Data` component widths in sync.
+This is the only exported component. It includes `Head`, `Header`, `Body`, `Row`, and `Data` as components attached to itself. All default styles use flexbox, it gives you the bare minimum to start styling your tables in React. A [resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill) is used to keep the `Header` and `Data` component widths in sync.
 
 
 ## Running Locally
