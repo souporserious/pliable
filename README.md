@@ -1,10 +1,10 @@
-## Pliable 🥖
+## Pliable
 
 [![npm version](https://badge.fury.io/js/pliable.svg)](https://badge.fury.io/js/pliable)
 [![Dependency Status](https://david-dm.org/souporserious/pliable.svg)](https://david-dm.org/souporserious/pliable)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
-A no frills, all smiles, easily styleable Table in React. Yes, that's a baguette up there. And no, it doesn't make any sense.
+A no frills, all smiles, easily styleable Table in React.
 
 near-future goals:
 
